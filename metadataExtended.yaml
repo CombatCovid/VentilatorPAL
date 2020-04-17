@@ -1,0 +1,33 @@
+---
+title: VentilatorPAL
+description: >
+    An open source low-cost DIY emergency ventilator kit that can be assembled by anyone.
+keywords:
+  - covid-19
+  - medical equipment
+  - ventilator
+  - emergency
+  - DIY
+  - maker
+  - certified
+project-link: https://freebreathing.org/
+repository-link: https://ohwr.org/project/ventilatorpal/blob/master/Stogger-Ventilator-PAL-M-V20.zip
+made: true
+made-independently: false
+license:
+  hardware: CERN-OHL-S v2
+okh-manifest-version: 1.0.0
+date-updated: 2020-04-09
+manifest-author:
+  name: Aubert Dupont
+  affiliation: RadboudUMC
+contributors:
+  - Aubert Dupont
+  - Stefan Dorssers
+  - Marcel van Aarle
+  - Pieter Peeters
+  - Benoît Dupont
+  - Hugo Touw
+  - Iben Molenkamp
+  - Ilja van Roon
+
