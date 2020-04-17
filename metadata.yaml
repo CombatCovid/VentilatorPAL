@@ -19,8 +19,8 @@ license:
 okh-manifest-version: 1.0.0
 date-updated: 2020-04-09
 manifest-author:
-  name: author
-  affiliation: MIT
+  name: Aubert Dupont
+  affiliation: RadboudUMC
 contributors:
   - Aubert Dupont
   - Stefan Dorssers

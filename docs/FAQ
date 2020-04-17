@@ -1,0 +1,23 @@
+#Frequently Asked Questions about the VentilatorPAL
+
+###Is this ventilator as good as a normal ventilator?
+No. It is a very simple ventilator that transforms an ambu-bag or manual resuscitator in to a mechanical ventilator. A lung-protective ventilation strategy can be applied – tidal volumes can be set at 4–6 mL kg-1 predicted body weight (PBW), and respiration rates can be titrated allowing to maintain a pH greater than 7.2 up to 30 breaths per minute. In patients with severe COVID-19-related ARDS, the lung compliance is usually high, so inspiratory pressures rarely exceed 13 cm H2O, and plateau pressures are not higher than 25–27 cm H2O. It is recommended to use positive end-expiratory pressure (PEEP) titrated according to the PaO2 or SpO2, which can be set on the ambu-bag itself. The use of ventilation in the prone position provides good results in patients and should be use as the primary position for mechanical ventilation.
+
+###What features are lacking on this base-device?
+We have no pressure support mode on this base-device. Therefore, a patient should be transferred to a intensive care unit with fully equipped mechanical ventilators. Furthermore, there are no flow nor pressure meters or alarms on the machines. Although, some ambu-bags can be or are equipped with manometers. We are not expecting pressure alarms since the patients are deeply sedated and are given neuro muscular blockers. We advise to use capnografy and SpO2 monitoring in concordance with this machine to guide mechanical ventilator settings. Although COVID-19 requires advanced Intensive Care treatment, this ventilator the requirements of an advanced mechanical ventilators to ventilate COVID+ patients in the most acute setting.
+
+###What settings can be adjusted?
+A lung-protective ventilation strategy can be applied – tidal volumes can be set at 4–6 mL kg-1 predicted body weight (PBW), and respiration rates can be titrated allowing to maintain a pH greater than 7.2 up to 30 breaths per minute. In patients with severe COVID-19-related ARDS, the lung compliance is usually high, so inspiratory pressures rarely exceed 13 cm H2O, and plateau pressures are not higher than 25–27 cm H2O. It is recommended to use positive end-expiratory pressure (PEEP) titrated according to the PaO2 or SpO2, which can be set on the ambu-bag itself. The use of ventilation in the prone position provides good results in patients and should be use as the primary position for mechanical ventilation.
+
+###How does this complexity relate to the use of simple ventilators? Can these really be a solution?
+This type of bare bone ventilators should only be applied in emergency situations, when there is a shortage of ventilation equipment because these 'simple' ventilators indeed only have the essential setting options in the acute phase. These devices, developed by freebreathing.org, are intended for the first phase of the complex intensive care treatment of COVID-19 patients. The devices takes over the manual movement of the caregiver and ventilate patients with the most basic and essential settings.
+
+
+###Particular use cases
+
+Two patients on one ventilator is possible but undesirable?
+Ventilators are not designed to ventilate two patients, so only use these machines off-label in extreme situations when there is a shortage of ventilators. Also this is only possible when patients are kept asleep and do not breathe themselves. In addition, patients ventilated with one ventilator must have the same breathing mechanics.
+'Simple' ventilators like the VentilatorPAL will also be developed. They can be produced in large quantities in the short term. As far as we understand, ventilating COVID-19 patients is a complex matter for which you need high quality technology.
+
+####Find more  recent information on VentilatorPAL's wiki:
+https://ohwr.org/project/ventilatorpal/wikis/home
